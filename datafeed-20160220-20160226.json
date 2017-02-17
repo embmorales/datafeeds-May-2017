@@ -1,0 +1,462 @@
+[
+  {
+    "Placement": "wh1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/Evergage/fashion_fabric_segment_hero_996x500.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_three=fashion-fabric",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NEWA|WC-WA-WS|wfashionfabrics|ALL|NA"
+  },
+  {
+    "Placement": "wn1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/Evergage/N1_NEWARRIVALS_360x420_PerfectPair.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_three=perfect-pair",
+    "Headline": "PERFECT PAIR",
+    "Subline": "Link up with your love for a stylish casual look",
+    "EventLabel": "THE|WC|wperfectpair|ALL|NA"
+  },
+  {
+    "Placement": "wn2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/Evergage/zcrew-with-logo_620x420.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_four=generation-hope",
+    "Headline": "ZALORA x HOPE",
+    "Subline": "Shop for a cause. Every item purchased from our collection is a gift to you and a child in need. 10% of proceeds go towards building a school",
+    "EventLabel": "THE|WC-WS-WA|wgivingtuesday|ALL|NA"
+  },
+  {
+    "Placement": "wcu1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/Evergage/CU1_640x420_NewRomantics.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_three=new-romantics",
+    "Headline": "NEW ROMANTIC",
+    "Subline": "At the edge of love where whimsical silhouettes meet their shining counterpart",
+    "EventLabel": "THE|WC|wnewromantics|ALL|NA"
+  },
+  {
+    "Placement": "wcu2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/Evergage/360x420_SkirtsSituation.jpg",
+    "Exit Url": "/women/clothing/skirts/?sort=popularity&price=200-999",
+    "Headline": "SKIRT SITUATION",
+    "Subline": "From maxi to mini, pencil to flowy, sheer to denim, find the perfect skirt below P999!",
+    "EventLabel": "SUB|WC|wskirtsituation|ALL|NA"
+  },
+  {
+    "Placement": "wcu3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/Evergage/N1-CU2-CU3_360x420_Bolder_Brows.jpg",
+    "Exit Url": "/women/beauty/brows/",
+    "Headline": "BOLDER BROWS",
+    "Subline": "The secret to having the best-looking brows are the basics",
+    "EventLabel": "SUB|WBE|wbolderbrows|ALL|NA"
+  },
+  {
+    "Placement": "wcu4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/Evergage/N2-CU1-CU4_620x420-Knitwear.jpg",
+    "Exit Url": "/women/clothing/cardigans-knitwear/",
+    "Headline": "KNIT FIX",
+    "Subline": "Warm up with these stylish statement knits",
+    "EventLabel": "SUB|WC|wknitfixcardigans|ALL|NA"
+  },
+  {
+    "Placement": "wfb1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/Evergage/SomethingBorrowed_322x165_20170217_fb.jpg",
+    "Exit Url": "/something-borrowed/new-products",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA-NEWA|WC|wsomethingborrowedfb|ALL|something-borrowed"
+  },
+  {
+    "Placement": "wfb2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/Evergage/Indikah_322x165_20170217_fb.jpg",
+    "Exit Url": "/women/indikah/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|WC|windikahfb|ALL|indikah"
+  },
+  {
+    "Placement": "wfb3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/Evergage/cluse-featuredbrand_20170217_fb.jpg",
+    "Exit Url": "/women/cluse/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|WA|wclusefb|ALL|cluse"
+  },
+  {
+    "Placement": "wfb4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/Evergage/B1-6_322x165_Melissa_20170217_fb.jpg",
+    "Exit Url": "/women/melissa/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|WS|wmelissafb|ALL|melissa"
+  },
+  {
+    "Placement": "wfb5",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/Evergage/Ivy Park_322x165_20170217_fb.jpg",
+    "Exit Url": "/women/ivy-park/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|WSP|wivyparkfb|ALL|ivy-park"
+  },
+  {
+    "Placement": "wfb6",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/Evergage/Sleek Makeup_322x165_20170217_fb.jpg",
+    "Exit Url": "/women/sleek-makeup/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|WBE|wsleekmakeupfb|ALL|sleek-makeup"
+  },
+  {
+    "Placement": "wc1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "http://zstaticph01-a.akamaihd.net/cms/Evegage/20170210_W_Skirts_300x198.jpg",
+    "Exit Url": "/women/clothing/skirts/",
+    "Headline": "NA",
+    "Subline": "Shop Skirts >",
+    "EventLabel": "SUB|WC|wskirts|ALL|NA"
+  },
+  {
+    "Placement": "wc2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "http://zstaticph01-a.akamaihd.net/cms/Evegage/20170210_W_Slides_300x198.jpg",
+    "Exit Url": "/women/shoes/flat-slide/",
+    "Headline": "NA",
+    "Subline": "Shop Slides >",
+    "EventLabel": "SUB|WS|wslides|ALL|NA"
+  },
+  {
+    "Placement": "wc3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/Evegage/20170210_W_Jumpsuits_375x500.jpg",
+    "Exit Url": "/women/clothing/jumpsuits/",
+    "Headline": "NA",
+    "Subline": "Shop Jumpsuits >",
+    "EventLabel": "SUB|WC|wjumpsuits|ALL|NA"
+  },
+  {
+    "Placement": "wc4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "http://zstaticph01-a.akamaihd.net/cms/Evegage/20170210_W_Swimsuits_300x198.jpg",
+    "Exit Url": "/women/clothing/swimwear-bikinis/",
+    "Headline": "NA",
+    "Subline": "Shop Swimwear >",
+    "EventLabel": "SUB|WC|wswimwear|ALL|NA"
+  },
+  {
+    "Placement": "wc5",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "http://zstaticph01-a.akamaihd.net/cms/Evergage/996x500_1_Season-Must-Haves.jpg",
+    "Exit Url": "/women/accessories/eyewear-sunglasses/",
+    "Headline": "NA",
+    "Subline": "Shop Eyewear >",
+    "EventLabel": "SUB|WA|weyewear|ALL|NA"
+  },
+  {
+    "Placement": "mh1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "http://zstaticph01-a.akamaihd.net/cms/Evegage/20170210_W_Eyewear_300x198.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_two=season-must-haves",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NEWA|MC-MS|mspringmusthaves|ALL|NA"
+  },
+  {
+    "Placement": "mn1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/Evergage/N1-CU2-CU3_360x420_StreetSharp.jpg",
+    "Exit Url": "/men/trends/streetwear/",
+    "Headline": "Street Sharp",
+    "Subline": "Rock your style with streetwear icons from Aldo, Jaxon, Mango Man, & more",
+    "EventLabel": "THE|MC|mstreetsharp|ALL|NA"
+  },
+  {
+    "Placement": "mn2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/Evergage/N2_NEWARRIVALS_620x420_Feb20offmen.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_five=feb20offvc",
+    "Headline": "Instant 20% Off",
+    "Subline": "Use code OFF20 at checkout for 20% off. No minimum spend",
+    "EventLabel": "SAL|MC-MS-MA|mfeb20off|ALL|VC%"
+  },
+  {
+    "Placement": "mfb1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/Evergage/Adidas_322x165_20170217_fb.jpg",
+    "Exit Url": "/men/adidas/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|MSP-MS|madidasfb|ALL|adidas"
+  },
+  {
+    "Placement": "mfb2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/Evergage/Levis_322x165_20170217_fb.jpg",
+    "Exit Url": "/men/levi-s/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|MC-MS|mlevisfb|ALL|levi-s"
+  },
+  {
+    "Placement": "mfb3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/Evergage/invicta-featuredbrand_20170217_fb.jpg",
+    "Exit Url": "/men/watches/invicta/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|MW|minvictafb|ALL|invicta"
+  },
+  {
+    "Placement": "mfb4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/Evergage/OnitsukaTiger_322x165_20170217_fb.jpg",
+    "Exit Url": "/men/onitsuka-tiger/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|MSP-MS|monitsukatigerfb|ALL|onitsuka-tiger"
+  },
+  {
+    "Placement": "mfb5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/Evergage/danielwellington-featuredbrand_20170217_fb.jpg",
+    "Exit Url": "/men/daniel-wellington/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|MW|mdanielwellingtonfb|ALL|daniel-wellington"
+  },
+  {
+    "Placement": "mfb6",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/Evergage/WorldBalance_322x165_20170217_fb.jpg",
+    "Exit Url": "/men/world-balance/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|MSP-MS|mworldbalancefb|ALL|world-balance"
+  },
+  {
+    "Placement": "mc1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://trello-attachments.s3.amazonaws.com/587f2d197eb6490d47c5de64/587f2d2e706c3a4c8db8d671/55aacdda8862af612583805aee56767d/C1245_MSS_300X198_MENS_LONGPANTS.jpg",
+    "Exit Url": "/men",
+    "Headline": "NA",
+    "Subline": "Shop Pants >",
+    "EventLabel": "THE|WC|VDAY2017|ALL|NA"
+  },
+  {
+    "Placement": "mc2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "http://zstaticph01-a.akamaihd.net/cms/Evergage/20170213_Cat_Shirts.jpg",
+    "Exit Url": "/men/clothing/shirts/",
+    "Headline": "NA",
+    "Subline": "Shop Shirts >",
+    "EventLabel": "SUB|MC|mshirts|ALL|NA"
+  },
+  {
+    "Placement": "mc3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://trello-attachments.s3.amazonaws.com/587f2d197eb6490d47c5de64/587f2d2e706c3a4c8db8d671/c24214ef334287a9935b8be4dcf2fcf8/C3_MSS_375X500_MENS_SHIRTS.jpg",
+    "Exit Url": "/men",
+    "Headline": "NA",
+    "Subline": "Shop Shirts >",
+    "EventLabel": "THE|WC|VDAY2017|ALL|NA"
+  },
+  {
+    "Placement": "mc4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://trello-attachments.s3.amazonaws.com/587f2d197eb6490d47c5de64/587f2d2e706c3a4c8db8d671/79be12eae042eba8bd9b01d3d6776605/C1245_MSS_300X198_MENS_BAGS.jpg",
+    "Exit Url": "/men",
+    "Headline": "NA",
+    "Subline": "Shop Bags >",
+    "EventLabel": "THE|WC|VDAY2017|ALL|NA"
+  },
+  {
+    "Placement": "mc5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://trello-attachments.s3.amazonaws.com/587f2d197eb6490d47c5de64/587f2d2e706c3a4c8db8d671/ae600cf1a24f7654f53cd64f21b5fc27/C1245_MSS_300X198_MENS_SPORTSWEAR.jpg",
+    "Exit Url": "/men",
+    "Headline": "NA",
+    "Subline": "Shop Sports >",
+    "EventLabel": "THE|WC|VDAY2017|ALL|NA"
+  },
+  {
+    "Placement": "wh1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/Evergage/mobileweb_hero_600x600_FashionFabric.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_three=fashion-fabric",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NEWA|WC-WA-WS|wfashionfabrics|ALL|NA"
+  },
+  {
+    "Placement": "wn1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/Evergage/CU1_640x420_NewRomantics.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_three=new-romantics",
+    "Headline": "NEW ROMANTIC",
+    "Subline": "At the edge of love where whimsical silhouettes meet their shining counterpart",
+    "EventLabel": "THE|WC|wnewromantics|ALL|NA"
+  },
+  {
+    "Placement": "wn2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/Evergage/N2_620x420_FancyFeet.jpg",
+    "Exit Url": "/women/shoes/flats/?sort=popularity&price=199-999",
+    "Headline": "FANCY FEET",
+    "Subline": "Take a walk on the glamorous side with our collection of flats under P1000",
+    "EventLabel": "SUB-PP|WS|wflatsunderp1500|ALL|MAX$"
+  },
+  {
+    "Placement": "wc1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "http://zstaticph01-a.akamaihd.net/cms/Evegage/20170210_W_Swimsuits_300x198.jpg",
+    "Exit Url": "/women/clothing/swimwear-bikinis/",
+    "Headline": "NA",
+    "Subline": "Shop Swimwear >",
+    "EventLabel": "SUB|WC|wswimwear|ALL|NA"
+  },
+  {
+    "Placement": "wc2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "http://zstaticph01-a.akamaihd.net/cms/Evegage/20170210_W_Slides_300x198.jpg",
+    "Exit Url": "/women/shoes/flat-slide/",
+    "Headline": "NA",
+    "Subline": "Shop Slides >",
+    "EventLabel": "SUB|WS|wslides|ALL|NA"
+  },
+  {
+    "Placement": "mh1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/Evergage/600x600_M_SpringMustHaves.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_two=season-must-haves",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "THE|MC-MS-MA|mspringmusthaves|ALL|NA"
+  },
+  {
+    "Placement": "mn1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/Evergage/N2_NEWARRIVALS_620x420_PerfectPair.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_three=perfect-pair",
+    "Headline": "PERFECT PAIR",
+    "Subline": "Link up with your love for a stylish casual look",
+    "EventLabel": "THE|MC|mperfectpair|ALL|NA"
+  },
+  {
+    "Placement": "mn2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/Evergage/N2-CU1-CU4_620x420_StreetSharp.jpg",
+    "Exit Url": "/men/trends/streetwear/",
+    "Headline": "Street Sharp",
+    "Subline": "Rock your style with streetwear icons from Aldo, Jaxon, Mango Man, & more",
+    "EventLabel": "THE|MC|mstreetsharp|ALL|NA"
+  },
+  {
+    "Placement": "mc1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/Evergage/Cat1_Boots.jpg",
+    "Exit Url": "/men",
+    "Headline": "Men C1",
+    "Subline": "NA",
+    "EventLabel": "THE|WC|VDAY2017|ALL|NA"
+  },
+  {
+    "Placement": "mc2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/Evergage/Cat1_MessengerBags.jpg",
+    "Exit Url": "/men",
+    "Headline": "Men C2",
+    "Subline": "NA",
+    "EventLabel": "THE|WC|VDAY2017|ALL|NA"
+  },
+  {
+    "Placement": "uh1",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "http://zstaticph01-a.akamaihd.net/cms/Evergage/20170121_Homepage_desktop.jpg",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA|WC-WS-WA|homepagehero|ALL|NA"
+  },
+  {
+    "Placement": "ub1",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/Evergage/FashionFabric_322x300.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_three=fashion-fabric",
+    "Headline": "Fashion Fabric",
+    "Subline": "The season's must-have fabrics deserve a spot in your chest",
+    "EventLabel": "NEWA|WC-WA-WS|wfashionfabrics|ALL|NA"
+  },
+  {
+    "Placement": "ub2",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/Evergage/HomepageBanner_322x300_newSeason_Nautical.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_five=nautical",
+    "Headline": "NEW SEASON NAUTICAL",
+    "Subline": "A trend that is perpetually in fashion",
+    "EventLabel": "THE|WC|newseasonnautical|ALL|NA"
+  },
+  {
+    "Placement": "ub3",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/Evergage/322x300_PerfectPair.jpg",
+    "Exit Url": "/all-products/?cmpgn_three=perfect-pair",
+    "Headline": "PERFECT PAIR",
+    "Subline": "Link up with your love for a stylish casual look",
+    "EventLabel": "THE|WC|wperfectpair|ALL|NA"
+  }
+]
