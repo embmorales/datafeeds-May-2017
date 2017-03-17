@@ -1,0 +1,542 @@
+[
+  {
+    "Placement": "wsf1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "wsl1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "",
+    "Headline": "Spend P2,000, <span style=\"color:#f8fc88\">get 20% off</span> Use code: SAVE20",
+    "Subline": "Ends March 24 , 12noon",
+    "EventLabel": "SAL|Women|spendvc20off30off|ALL|NA"
+  },
+  {
+    "Placement": "wsr1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "/women/all-products/?cmpgn_five=buy2get25-anniv",
+    "Headline": "BDAY BLOWOUT: <span style = \"#f93131\">Buy 2 and more, get 25% off</span>.",
+    "Subline": "Ends March 24, 12:00 NN",
+    "EventLabel": "SAL|Women|birthdayblowoutbuy2get25off|ALL|NA"
+  },
+  {
+    "Placement": "wh1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/SEGMENT_HERO_996x500_Nanette.jpg",
+    "Exit Url": "/zalora-anniversary-women",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "RET|Women|wfifthbdayzalorananette|ALL|NA"
+  },
+  {
+    "Placement": "wn1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N1_360x420_Mane Event.jpg",
+    "Exit Url": "/women/beauty/hair-care/",
+    "Headline": "THE MANE EVENT",
+    "Subline": "Be the crowning glory with our collection of haircare products and tools",
+    "EventLabel": "CAT|Women|wmaneevent|ALL|NA"
+  },
+  {
+    "Placement": "wn2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N2_620x420-SpendVC_W.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=spend-and-save",
+    "Headline": "SPEND AND SAVE",
+    "Subline": "Spend P2,000, <span style = \"#f93131\">get 20% off</span> - Use code: SAVE20<br>\nSpend P3,000 , <span style = \"#f93131\">get 30% off</span> - Use code: SAVE30 <br>\nEnds March 24 , 12noon",
+    "EventLabel": "SAL|Women|spendvc20off30off|ALL|NA"
+  },
+  {
+    "Placement": "wcu1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N2_620x420_Bday_buy2_get25off_W.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_five=buy2get25-anniv",
+    "Headline": "BIRTHDAY BLOWOUT",
+    "Subline": "Celebrate our birthday with us! <span style = \"#f93131\">Buy 2 or more and get 25% off</span>. Ends March 24, 12:00 NN",
+    "EventLabel": "SAL|Women|birthdayblowoutbuy2get25off|ALL|NA"
+  },
+  {
+    "Placement": "wcu2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N1_360x420_Ground Rules.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_four=ground-rules",
+    "Headline": "GROUND RULES",
+    "Subline": "Put your best foot forward with these classic styles and neutral hues",
+    "EventLabel": "TRE|Women|groundrules|ALL|NA"
+  },
+  {
+    "Placement": "wcu3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/CU3_360x420_ShapesAndCurves.jpg",
+    "Exit Url": "/women/shapes-and-curves",
+    "Headline": "Beach Essentials by Shapes and Curves",
+    "Subline": "Swimwear styles, carry-alls, roundie towels and floaties to take with you in your next getaway",
+    "EventLabel": "BRA|Women|shapesandcurvesbeachessentials|ALL|ZAP"
+  },
+  {
+    "Placement": "wcu4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/SEGMENT_HERO_996x500_CU4_Safari_Traveler.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_three=safari-travellers",
+    "Headline": "SAFARI TRAVELER",
+    "Subline": "Awaken your senses with a selection of desert tones and safari accents",
+    "EventLabel": "BRA|Women|safaritraveler|ALL|NA"
+  },
+  {
+    "Placement": "wfb1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/tokichoi_B_322x165_W.jpg",
+    "Exit Url": "/women/tokichoi",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wtokichoifb|ALL|NA"
+  },
+  {
+    "Placement": "wfb2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/B1-6_322x165_W_Dorina.jpg",
+    "Exit Url": "/women/dorina",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wdorinafb|ALL|NA"
+  },
+  {
+    "Placement": "wfb3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/322x165 ZALORA_W.jpg",
+    "Exit Url": "/women/clothing/zalora/new-products",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wzalorafb|ALL|NA"
+  },
+  {
+    "Placement": "wfb4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/322x165_ShapesAndCurves_W_ZAP.jpg",
+    "Exit Url": "/women/shapes-and-curves/?sort=latest%20arrival",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wshapesandcurvesfb|ALL|ZAP"
+  },
+  {
+    "Placement": "wfb5",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/322x165 Havaianas_W_ZAP.jpg",
+    "Exit Url": "/women/shoes/havaianas",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|whavaianasfb|ALL|ZAP"
+  },
+  {
+    "Placement": "wfb6",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/322x165 NYX_W.jpg",
+    "Exit Url": "/women/beauty/nyx-cosmetics/?sort=latest%20arrival",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wnyxcosmeticsfb|ALL|NA"
+  },
+  {
+    "Placement": "wc1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/C3_Cross-Body Bags_300x198.jpg",
+    "Exit Url": "/women/bags/cross-body-bags/",
+    "Headline": "Shop Cross-Body Bags >",
+    "Subline": "Shop Cross-Body Bags >",
+    "EventLabel": "CAT|Women|wcrossbodybags|ALL|NA"
+  },
+  {
+    "Placement": "wc2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/C2_BeautyTools_300x198.jpg",
+    "Exit Url": "/women/beauty/beauty-tools/",
+    "Headline": "Shop Beauty Tools >",
+    "Subline": "Shop Beauty Tools >",
+    "EventLabel": "CAT|Women|wbeautytools|ALL|NA"
+  },
+  {
+    "Placement": "wc3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/C3_Jumpsuit_375x500.jpg",
+    "Exit Url": "/women/clothing/jumpsuits",
+    "Headline": "Shop Jumpsuits >",
+    "Subline": "Shop Jumpsuits >",
+    "EventLabel": "CAT|Women|wjumpsuits|ALL|NA"
+  },
+  {
+    "Placement": "wc4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/C3_Heels_300x198.jpg",
+    "Exit Url": "/women/shoes/heeled-sandals/",
+    "Headline": "Shop Heels >",
+    "Subline": "Shop Heels >",
+    "EventLabel": "CAT|Women|wheels|ALL|NA"
+  },
+  {
+    "Placement": "wc5",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/C3_SportsBra_300x198.jpg",
+    "Exit Url": "/women/sports/sports-bras/",
+    "Headline": "Shop Sports Bras >",
+    "Subline": "Shop Sports Bras >",
+    "EventLabel": "CAT|Women|wsportsbra|ALL|NA"
+  },
+  {
+    "Placement": "msf1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "/men/all-products/?cmpgn_five=buy2get25-anniv",
+    "Headline": "Celebrate our birthday with us! <span style = \"#f93131\">Buy 2 or more and get 25% off</span>",
+    "Subline": "Ends March 24, 12:00 NN",
+    "EventLabel": "SAL|Women|birthdayblowoutbuy2get25off|ALL|NA"
+  },
+  {
+    "Placement": "msl1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "msr1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "mh1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/SEGMENT_HERO_996x500_Robby.jpg",
+    "Exit Url": "/zalora-anniversary-men/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "RET|Men|mfifthbdayzalorarobby|ALL|NA"
+  },
+  {
+    "Placement": "mn1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N1_360x420_Shirts Tees Under P999.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_two=shirtstees-below999&price=199-999",
+    "Headline": "Shirts & Tees Under P999",
+    "Subline": "Casual tops and button-downs fit for daily occasions",
+    "EventLabel": "CAT|Men|shirtsteesunder999|ALL|NA"
+  },
+  {
+    "Placement": "mn2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N2_620x420_Bday_buy2_get25off_M.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_five=buy2get25-anniv",
+    "Headline": "BIRTHDAY BLOWOUT",
+    "Subline": "Celebrate our birthday with us! <span style = \"#f93131\">Buy 2 or more and get 25% off</span>. Ends March 24, 12:00 NN",
+    "EventLabel": "SAL|Men|birthdayblowoutbuy2get25off|ALL|NA"
+  },
+  {
+    "Placement": "mfb1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170317_OnitsukaTiger_322x165.jpg",
+    "Exit Url": "/men/onitsuka-tiger/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|monitsukatiger|ALL|NA"
+  },
+  {
+    "Placement": "mfb2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170317_featured-brand_322x165.jpg",
+    "Exit Url": "/men/blued/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mblued|ALL|NA"
+  },
+  {
+    "Placement": "mfb3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170317_322x165 Sebago.jpg",
+    "Exit Url": "/men/sebago/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|msebago|ALL|NA"
+  },
+  {
+    "Placement": "mfb4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170317_B1-6_322x165.jpg",
+    "Exit Url": "/men/river-island/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mriverisland|ALL|NA"
+  },
+  {
+    "Placement": "mfb5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170317_322x165 Swiss Polo.jpg",
+    "Exit Url": "/men/swiss-polo/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mswisspolo|ALL|NA"
+  },
+  {
+    "Placement": "mfb6",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170317_322x165 Wrangler.jpg",
+    "Exit Url": "/men/wrangler/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mwrangler|ALL|NA"
+  },
+  {
+    "Placement": "mc1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Sneakers_cat1_20170310.jpg",
+    "Exit Url": "/men/shoes/sneakers/?getSKU=IT153SH68NOLPH",
+    "Headline": "Shop Sneakers >",
+    "Subline": "Shop Sneakers >",
+    "EventLabel": "CAT|Men|msneakers|ALL|NA"
+  },
+  {
+    "Placement": "mc2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/SportsAccessories_cat4_20170310.jpg",
+    "Exit Url": "/men/sports/sports-accessories/?getSKU=NI126AC83CSUPH",
+    "Headline": "Shop Sports Accessories >",
+    "Subline": "Shop Sports Accessories >",
+    "EventLabel": "CAT|Men|msportsaccessories|ALL|NA"
+  },
+  {
+    "Placement": "mc3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/polshirt_cat1_20170310.jpg",
+    "Exit Url": "/men/clothing/polo-shirts/?getSKU=GR688AA02JXXPH",
+    "Headline": "Shop Polo Shirts >",
+    "Subline": "Shop Polo Shirts >",
+    "EventLabel": "CAT|Men|mpoloshirts|ALL|NA"
+  },
+  {
+    "Placement": "mc4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/shorts_cat1_20170310.jpg",
+    "Exit Url": "/men/clothing/shorts/?getSKU=WR067AA88OIDPH",
+    "Headline": "Shop Shorts >",
+    "Subline": "Shop Shorts >",
+    "EventLabel": "CAT|Men|mshorts|ALL|NA"
+  },
+  {
+    "Placement": "mc5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Grooming_cat5.jpg",
+    "Exit Url": "/men/grooming/?getSKU=WF973BE93YFMPH",
+    "Headline": "Shop Grooming >",
+    "Subline": "Shop Grooming >",
+    "EventLabel": "CAT|Men|mgrooming|ALL|NA"
+  },
+  {
+    "Placement": "ws1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MobileSkinny_700x200_buy2_bday_blowout.gif",
+    "Exit Url": "/women/all-products/?cmpgn_five=buy2get25-anniv",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Women|birthdayblowoutbuy2get25off|ALL|NA"
+  },
+  {
+    "Placement": "wh1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MOBILEWEB_HERO_600x600_NAnette.jpg",
+    "Exit Url": "/zalora-anniversary-women",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "RET|Women|wfifthbdayzalorananette|ALL|NA"
+  },
+  {
+    "Placement": "wn1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N2_620x420_Bday_buy2_get25off_W.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_five=buy2get25-anniv",
+    "Headline": "BIRTHDAY BLOWOUT",
+    "Subline": "Celebrate our birthday with us! <span style = \"#f93131\">Buy 2 or more and get 25% off</span>. Ends March 24, 12:00 NN",
+    "EventLabel": "SAL|Women|birthdayblowoutbuy2get25off|ALL|NA"
+  },
+  {
+    "Placement": "wn2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N2_620x420-SpendVC_W.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=spend-and-save",
+    "Headline": "SPEND AND SAVE",
+    "Subline": "Spend P2,000, <span style = \"#f93131\">get 20% off</span> - Use code: SAVE20<br>\nSpend P3,000 , <span style = \"#f93131\">get 30% off</span> - Use code: SAVE30 <br>\nEnds March 24 , 12noon",
+    "EventLabel": "SAL|Women|spendvc20off30off|ALL|NA"
+  },
+  {
+    "Placement": "wc1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/C3_Jumpsuit_300x198.jpg",
+    "Exit Url": "/women/clothing/jumpsuits",
+    "Headline": "Shop Jumpsuits >",
+    "Subline": "Shop Jumpsuits >",
+    "EventLabel": "CAT|Women|wjumpsuits|ALL|NA"
+  },
+  {
+    "Placement": "wc2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/C3_Heels_300x198.jpg",
+    "Exit Url": "/women/shoes/heeled-sandals/",
+    "Headline": "Shop Heels >",
+    "Subline": "Shop Heels >",
+    "EventLabel": "CAT|Women|wheels|ALL|NA"
+  },
+  {
+    "Placement": "ms1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/700x200_buy2_bdayblowout.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_five=buy2get25-anniv",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Men|birthdayblowoutbuy2get25off|ALL|NA"
+  },
+  {
+    "Placement": "mh1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MOBILEWEB_HERO_600x600_Robby.jpg",
+    "Exit Url": "/zalora-anniversary-men",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "RET|Men|mfifthbdayzalorarobby|ALL|NA"
+  },
+  {
+    "Placement": "mn1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N2_620x420_Shirts & Tees Under P999.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_two=shirtstees-below999&price=199-999",
+    "Headline": "Shirts & Tees Under P999",
+    "Subline": "Casual tops and button-downs fit for daily occasions",
+    "EventLabel": "CAT|Men|shirtsteesunder999|ALL|NA"
+  },
+  {
+    "Placement": "mn2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/cms/DY/N2_620x420_Bday_buy2_get25off_M.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_five=buy2get25-anniv",
+    "Headline": "BIRTHDAY BLOWOUT",
+    "Subline": "Celebrate our birthday with us! <span style = \"#f93131\">Buy 2 or more and get 25% off</span>. Ends March 24, 12:00 NN",
+    "EventLabel": "SAL|Men|birthdayblowoutbuy2get25off|ALL|NA"
+  },
+  {
+    "Placement": "mc1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Sneakers_cat1_20170310.jpg",
+    "Exit Url": "/men/shoes/sneakers/?getSKU=IT153SH68NOLPH",
+    "Headline": "Shop Sneakers >",
+    "Subline": "Shop Sneakers >",
+    "EventLabel": "CAT|Men|msneakers|ALL|NA"
+  },
+  {
+    "Placement": "mc2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/polshirt_cat2_20170310.jpg",
+    "Exit Url": "/men/clothing/polo-shirts/?getSKU=GR688AA02JXXPH",
+    "Headline": "Shop Polo Shirts >",
+    "Subline": "Shop Polo Shirts >",
+    "EventLabel": "CAT|Men|mpoloshirts|ALL|NA"
+  },
+  {
+    "Placement": "uh1",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/Evergage/20170121_Homepage_desktop.jpg",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "CAT|Unisex|homepagehero|ALL|NA"
+  },
+  {
+    "Placement": "ub1",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Homepage_322x300_SpendVC.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=spend-and-save",
+    "Headline": "SPEND AND SAVE",
+    "Subline": "Spend P2,000, <span style = \"#f93131\">get 20% off</span> - Use code: SAVE20<br>\nSpend P3,000 , <span style = \"#f93131\">get 30% off</span> - Use code: SAVE30 <br>\nEnds March 24 , 12noon",
+    "EventLabel": "SAL|Women|spendvc20off30off|ALL|NA"
+  },
+  {
+    "Placement": "ub2",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/bdayblowout_322x300_homepage.jpg",
+    "Exit Url": "/all-products/?cmpgn_five=buy2get25-anniv",
+    "Headline": "BIRTHDAY BLOWOUT",
+    "Subline": "Celebrate our birthday with us! <span style = \"#f93131\">Buy 2 or more and get 25% off</span>. Ends March 24, 12:00 NN",
+    "EventLabel": "SAL|Women|birthdayblowoutbuy2get25off|ALL|NA"
+  },
+  {
+    "Placement": "ub3",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/322x300_HP_Tees_Shirt_under P999.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_two=shirtstees-below999&price=199-999",
+    "Headline": "Shirts & Tees Under P999",
+    "Subline": "Casual tops and button-downs fit for daily occasions",
+    "EventLabel": "CAT|Men|shirtsteesunder999|ALL|NA"
+  }
+]
