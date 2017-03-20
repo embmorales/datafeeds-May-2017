@@ -54,7 +54,7 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "https://static-ph.zacdn.com/cms/DY/N2_620x420-SpendVC_W.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=spend-and-save",
+    "Exit Url": "/women/all-products/?cmpgn_one=spend-and-save&vc=save20",
     "Headline": "SPEND AND SAVE",
     "Subline": "Spend P2,000, <span style = \"color:#f93131\">get 20% off</span> - Use code: SAVE20<br>\nSpend P3,000 , <span style = \"color:#f93131\">get 30% off</span> - Use code: SAVE30 <br>\nEnds March 24 , 12noon",
     "EventLabel": "SAL|Women|spendvc20off30off|ALL|NA"
@@ -143,11 +143,11 @@
     "Placement": "wfb5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/322x165 Havaianas_W_ZAP.jpg",
-    "Exit Url": "/women/shoes/havaianas",
+    "Image": "https://static-ph.zacdn.com/cms/DY/322x165 GUESS.jpg",
+    "Exit Url": "/women/bags/guess/?sort=latest%20arrival",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|whavaianasfb|ALL|ZAP"
+    "EventLabel": "BRA|Women|wguessfb|ALL|ZAP"
   },
   {
     "Placement": "wfb6",
@@ -404,7 +404,7 @@
     "Gender": "women",
     "Device": "mobile",
     "Image": "https://static-ph.zacdn.com/cms/DY/N2_620x420_Bday_buy2_get25off_W.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_five=buy2get25-anniv",
+    "Exit Url": "/women/all-products/?cmpgn_five=buy2get25-anniv&vc=save20",
     "Headline": "BIRTHDAY BLOWOUT",
     "Subline": "Celebrate our birthday with us! <span style = \"#f93131\">Buy 2 or more and get 25% off</span>. Ends March 24, 12:00 NN",
     "EventLabel": "SAL|Women|birthdayblowoutbuy2get25off|ALL|NA"
@@ -414,7 +414,7 @@
     "Gender": "women",
     "Device": "mobile",
     "Image": "https://static-ph.zacdn.com/cms/DY/N2_620x420-SpendVC_W.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=spend-and-save",
+    "Exit Url": "/women/all-products/?cmpgn_one=spend-and-save&vc=save20",
     "Headline": "SPEND AND SAVE",
     "Subline": "Spend P2,000, <span style = \"color:#f93131\">get 20% off</span> - Use code: SAVE20<br>\nSpend P3,000 , <span style = \"color:#f93131\">get 30% off</span> - Use code: SAVE30 <br>\nEnds March 24 , 12noon",
     "EventLabel": "SAL|Women|spendvc20off30off|ALL|NA"
