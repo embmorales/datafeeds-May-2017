@@ -56,7 +56,7 @@
     "Image": "https://static-ph.zacdn.com/cms/DY/N2_620x420-SpendVC_W.jpg",
     "Exit Url": "/women/all-products/?cmpgn_one=spend-and-save",
     "Headline": "SPEND AND SAVE",
-    "Subline": "Spend P2,000, <span style = \"#f93131\">get 20% off</span> - Use code: SAVE20<br>\nSpend P3,000 , <span style = \"#f93131\">get 30% off</span> - Use code: SAVE30 <br>\nEnds March 24 , 12noon",
+    "Subline": "Spend P2,000, <span style = \"color:#f93131\">get 20% off</span> - Use code: SAVE20<br>\nSpend P3,000 , <span style = \"color:#f93131\">get 30% off</span> - Use code: SAVE30 <br>\nEnds March 24 , 12noon",
     "EventLabel": "SAL|Women|spendvc20off30off|ALL|NA"
   },
   {
@@ -66,7 +66,7 @@
     "Image": "https://static-ph.zacdn.com/cms/DY/N2_620x420_Bday_buy2_get25off_W.jpg",
     "Exit Url": "/women/all-products/?cmpgn_five=buy2get25-anniv",
     "Headline": "BIRTHDAY BLOWOUT",
-    "Subline": "Celebrate our birthday with us! <span style = \"#f93131\">Buy 2 or more and get 25% off</span>. Ends March 24, 12:00 NN",
+    "Subline": "Celebrate our birthday with us! <span style = \"color:#f93131\">Buy 2 or more and get 25% off</span>. <br>Ends March 24, 12:00 NN",
     "EventLabel": "SAL|Women|birthdayblowoutbuy2get25off|ALL|NA"
   },
   {
@@ -83,7 +83,7 @@
     "Placement": "wcu3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/CU3_360x420_ShapesAndCurves.jpg",
+    "Image": "https://static-ph.zacdn.com/cms/DY/CU3_360x420_ZAP_SnC.jpg",
     "Exit Url": "/women/shapes-and-curves",
     "Headline": "Beach Essentials by Shapes and Curves",
     "Subline": "Swimwear styles, carry-alls, roundie towels and floaties to take with you in your next getaway",
@@ -93,7 +93,7 @@
     "Placement": "wcu4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/SEGMENT_HERO_996x500_CU4_Safari_Traveler.jpg",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N2_NEWARRIVALS_620x420_Safari_traveler.jpg",
     "Exit Url": "/women/all-products/?cmpgn_three=safari-travellers",
     "Headline": "SAFARI TRAVELER",
     "Subline": "Awaken your senses with a selection of desert tones and safari accents",
@@ -266,7 +266,7 @@
     "Image": "https://static-ph.zacdn.com/cms/DY/N2_620x420_Bday_buy2_get25off_M.jpg",
     "Exit Url": "/men/all-products/?cmpgn_five=buy2get25-anniv",
     "Headline": "BIRTHDAY BLOWOUT",
-    "Subline": "Celebrate our birthday with us! <span style = \"#f93131\">Buy 2 or more and get 25% off</span>. Ends March 24, 12:00 NN",
+    "Subline": "Celebrate our birthday with us! <span style = \"color:#f93131\">Buy 2 or more and get 25% off</span>. <br>Ends March 24, 12:00 NN",
     "EventLabel": "SAL|Men|birthdayblowoutbuy2get25off|ALL|NA"
   },
   {
@@ -416,7 +416,7 @@
     "Image": "https://static-ph.zacdn.com/cms/DY/N2_620x420-SpendVC_W.jpg",
     "Exit Url": "/women/all-products/?cmpgn_one=spend-and-save",
     "Headline": "SPEND AND SAVE",
-    "Subline": "Spend P2,000, <span style = \"#f93131\">get 20% off</span> - Use code: SAVE20<br>\nSpend P3,000 , <span style = \"#f93131\">get 30% off</span> - Use code: SAVE30 <br>\nEnds March 24 , 12noon",
+    "Subline": "Spend P2,000, <span style = \"color:#f93131\">get 20% off</span> - Use code: SAVE20<br>\nSpend P3,000 , <span style = \"color:#f93131\">get 30% off</span> - Use code: SAVE30 <br>\nEnds March 24 , 12noon",
     "EventLabel": "SAL|Women|spendvc20off30off|ALL|NA"
   },
   {
@@ -516,7 +516,7 @@
     "Image": "https://static-ph.zacdn.com/cms/DY/Homepage_322x300_SpendVC.jpg",
     "Exit Url": "/women/all-products/?cmpgn_one=spend-and-save",
     "Headline": "SPEND AND SAVE",
-    "Subline": "Spend P2,000, <span style = \"#f93131\">get 20% off</span> - Use code: SAVE20<br>\nSpend P3,000 , <span style = \"#f93131\">get 30% off</span> - Use code: SAVE30 <br>\nEnds March 24 , 12noon",
+    "Subline": "Spend P2,000, <span style = \"color:#f93131\">get 20% off</span> - Use code: SAVE20<br>\nSpend P3,000 , <span style = \"color:#f93131\">get 30% off</span> - Use code: SAVE30 <br>\nEnds March 24 , 12noon",
     "EventLabel": "SAL|Women|spendvc20off30off|ALL|NA"
   },
   {
@@ -526,7 +526,7 @@
     "Image": "https://static-ph.zacdn.com/cms/DY/bdayblowout_322x300_homepage.jpg",
     "Exit Url": "/all-products/?cmpgn_five=buy2get25-anniv",
     "Headline": "BIRTHDAY BLOWOUT",
-    "Subline": "Celebrate our birthday with us! <span style = \"#f93131\">Buy 2 or more and get 25% off</span>. Ends March 24, 12:00 NN",
+    "Subline": "Celebrate our birthday with us! <span style = \"color: #f93131\">Buy 2 or more and get 25% off</span>. Ends March 24, 12:00 NN",
     "EventLabel": "SAL|Women|birthdayblowoutbuy2get25off|ALL|NA"
   },
   {
