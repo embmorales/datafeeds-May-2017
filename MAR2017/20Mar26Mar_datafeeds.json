@@ -406,7 +406,7 @@
     "Image": "https://static-ph.zacdn.com/cms/DY/N2_620x420_Bday_buy2_get25off_W.jpg",
     "Exit Url": "/women/all-products/?cmpgn_five=buy2get25-anniv&vc=save20",
     "Headline": "BIRTHDAY BLOWOUT",
-    "Subline": "Celebrate our birthday with us! <span style = \"#f93131\">Buy 2 or more and get 25% off</span>. Ends March 24, 12:00 NN",
+    "Subline": "Celebrate our birthday with us! <span style = \"color:#f93131\">Buy 2 or more and get 25% off</span>. Ends March 24, 12:00 NN",
     "EventLabel": "SAL|Women|birthdayblowoutbuy2get25off|ALL|NA"
   },
   {
@@ -473,7 +473,7 @@
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/cms/DY/N2_620x420_Bday_buy2_get25off_M.jpg",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N2_620x420_Bday_buy2_get25off_M.jpg",
     "Exit Url": "/men/all-products/?cmpgn_five=buy2get25-anniv",
     "Headline": "BIRTHDAY BLOWOUT",
     "Subline": "Celebrate our birthday with us! <span style = \"#f93131\">Buy 2 or more and get 25% off</span>. Ends March 24, 12:00 NN",
