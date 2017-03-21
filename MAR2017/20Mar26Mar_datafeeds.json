@@ -14,7 +14,7 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "",
+    "Exit Url": "/women/all-products/?cmpgn_one=spend-and-save&vc=save20",
     "Headline": "Spend P2,000, <span style=\"color:#f8fc88\">get 20% off</span> Use code: SAVE20",
     "Subline": "Ends March 24 , 12noon",
     "EventLabel": "SAL|Women|spendvc20off30off|ALL|NA"
@@ -25,7 +25,7 @@
     "Device": "desktop",
     "Image": "NA",
     "Exit Url": "/women/all-products/?cmpgn_five=buy2get25-anniv",
-    "Headline": "BDAY BLOWOUT: <span style = \"#f93131\">Buy 2 and more, get 25% off</span>.",
+    "Headline": "BDAY BLOWOUT: <span style = \"color: #f93131\">Buy 2 and more, get 25% off</span>.",
     "Subline": "Ends March 24, 12:00 NN",
     "EventLabel": "SAL|Women|birthdayblowoutbuy2get25off|ALL|NA"
   },
@@ -214,30 +214,30 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "/men/all-products/?cmpgn_five=buy2get25-anniv",
-    "Headline": "Celebrate our birthday with us! <span style = \"#f93131\">Buy 2 or more and get 25% off</span>",
-    "Subline": "Ends March 24, 12:00 NN",
-    "EventLabel": "SAL|Women|birthdayblowoutbuy2get25off|ALL|NA"
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
   },
   {
     "Placement": "msl1",
     "Gender": "men",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "NA",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "NA"
+    "Exit Url": "/men/all-products/?cmpgn_five=buy2get25-anniv",
+    "Headline": "Celebrate our birthday with us! <span style = \"#f93131\">Buy 2 or more and get 25% off</span>",
+    "Subline": "Ends March 24, 12:00 NN",
+    "EventLabel": "SAL|Men|birthdayblowoutbuy2get25off|ALL|NA"
   },
   {
     "Placement": "msr1",
     "Gender": "men",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "NA",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "NA"
+    "Exit Url": "/men/all-products/?cmpgn_one=spend-and-save&vc=save20",
+    "Headline": "Spend P2,000, <span style=\"color:#f8fc88\">get 20% off</span> Use code: SAVE20",
+    "Subline": "Ends March 24 , 12noon",
+    "EventLabel": "SAL|Men|spendvc20off30off|ALL|NA"
   },
   {
     "Placement": "mh1",
@@ -406,7 +406,7 @@
     "Image": "https://static-ph.zacdn.com/cms/DY/N2_620x420_Bday_buy2_get25off_W.jpg",
     "Exit Url": "/women/all-products/?cmpgn_five=buy2get25-anniv&vc=save20",
     "Headline": "BIRTHDAY BLOWOUT",
-    "Subline": "Celebrate our birthday with us! <span style = \"color:#f93131\">Buy 2 or more and get 25% off</span>. Ends March 24, 12:00 NN",
+    "Subline": "Celebrate our birthday with us! <span style = \"#f93131\">Buy 2 or more and get 25% off</span>. Ends March 24, 12:00 NN",
     "EventLabel": "SAL|Women|birthdayblowoutbuy2get25off|ALL|NA"
   },
   {
