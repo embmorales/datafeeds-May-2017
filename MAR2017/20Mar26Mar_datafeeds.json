@@ -33,11 +33,11 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/SEGMENT_HERO_996x500_Nanette.jpg",
+    "Image": "https://static-ph.zacdn.com/cms/DY/SEGMENT_HERO_996x500_Isha_Andaya.jpg",
     "Exit Url": "/zalora-anniversary-women",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "RET|Women|wfifthbdayzalorananette|ALL|NA"
+    "EventLabel": "RET|Women|wfifthbdayzaloraishaandaya|ALL|NA"
   },
   {
     "Placement": "wn1",
@@ -243,11 +243,11 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/SEGMENT_HERO_996x500_Robby.jpg",
-    "Exit Url": "/zalora-anniversary-men/",
+    "Image": "https://static-ph.zacdn.com/cms/DY/SEGMENT_HERO_996x500_M_Patagonia.jpg",
+    "Exit Url": "/men/patagonia/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "RET|Men|mfifthbdayzalorarobby|ALL|NA"
+    "EventLabel": "BRA|Men|mpatagonia|ALL|NA"
   },
   {
     "Placement": "mn1",
@@ -393,11 +393,11 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/MOBILEWEB_HERO_600x600_NAnette.jpg",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MOBILEWEB_HERO_600x600_Isha_Andaya.jpg",
     "Exit Url": "/zalora-anniversary-women",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "RET|Women|wfifthbdayzalorananette|ALL|NA"
+    "EventLabel": "RET|Women|wfifthbdayzaloraishaandaya|ALL|NA"
   },
   {
     "Placement": "wn1",
