@@ -43,11 +43,11 @@
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/N1_360x420_Mane Event.jpg",
-    "Exit Url": "/women/beauty/hair-care/",
-    "Headline": "THE MANE EVENT",
-    "Subline": "Be the crowning glory with our collection of haircare products and tools",
-    "EventLabel": "CAT|Women|wmaneevent|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/N1_NEWARRIVALS_360x420-Patagonia.jpg",
+    "Exit Url": "/women/patagonia/",
+    "Headline": "Patagonia",
+    "Subline": "Gear that’s built to tackle the great outdoors can now be exclusively",
+    "EventLabel": "BRA|Women|wpatagonia|ALL|NA"
   },
   {
     "Placement": "wn2",
