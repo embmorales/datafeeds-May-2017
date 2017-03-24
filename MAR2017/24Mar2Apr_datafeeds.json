@@ -14,10 +14,10 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "/women/all-products/?cmpgn_four=mss-buy2get20off",
-    "Headline": "Buy 2 or More, Get 20% off",
+    "Exit Url": "/women/special-price/?sort=popularity&price=150-1500",
+    "Headline": "<span style = \"color: #ff0000\">EVERYTHING AT 1,500 and below </span>",
     "Subline": "Applicable only on items on this page",
-    "EventLabel": "SAL|Women|wmssbuy2get20off|ALL|NA"
+    "EventLabel": "SAL|Women|wmsseverything1500|ALL|NA"
   },
   {
     "Placement": "wsr1",
@@ -26,8 +26,8 @@
     "Image": "NA",
     "Exit Url": "/women/special-price/",
     "Headline": "MID SEASON SALE - <span style = \"color: #f8fc88\">Up to 50% Off</span>",
-    "Subline": "NA",
-    "EventLabel": "NA"
+    "Subline": "Wardrobe-worthy additions at unbeatable prices.",
+    "EventLabel": "SAL|Women|wmssomnibusupto50off|ALL|NA"
   },
   {
     "Placement": "wh1",
@@ -56,8 +56,8 @@
     "Image": "https://static-ph.zacdn.com/cms/DY/N2_620x420_MSS_Women_everything at 1500.jpg",
     "Exit Url": "/women/special-price/?sort=popularity&price=150-1500",
     "Headline": "<span style = \"color: #ff0000\">EVERYTHING AT 1,500 and below </span>",
-    "Subline": "Applicable only on items on this page",
-    "EventLabel": "SAL|Women|wmssesprit|ALL|NA"
+    "Subline": "Wardrobe-worthy additions at unbeatable prices.",
+    "EventLabel": "SAL|Women|wmsseverything1500|ALL|NA"
   },
   {
     "Placement": "wcu1",
@@ -236,8 +236,8 @@
     "Image": "NA",
     "Exit Url": "/men/special-price/",
     "Headline": "MID SEASON SALE - <span style = \"color: #f8fc88\">Up to 50% Off</span>",
-    "Subline": "NA",
-    "EventLabel": "NA"
+    "Subline": "Wardrobe-worthy additions at unbeatable prices.",
+    "EventLabel": "SAL|Men|mmssomnibusupto50off|ALL|NA"
   },
   {
     "Placement": "mh1",
@@ -416,8 +416,8 @@
     "Image": "https://static-ph.zacdn.com/cms/DY/N2_620x420_MSS_Women_everything at 1500.jpg",
     "Exit Url": "/women/special-price/?sort=popularity&price=150-1500",
     "Headline": "<span style = \"color: #ff0000\">EVERYTHING AT 1,500 and below </span>",
-    "Subline": "Applicable only on items on this page",
-    "EventLabel": "SAL|Women|wmssesprit|ALL|NA"
+    "Subline": "Wardrobe-worthy additions at unbeatable prices.",
+    "EventLabel": "SAL|Women|wmssomnibusupto50off|ALL|NA"
   },
   {
     "Placement": "wc1",
