@@ -53,11 +53,11 @@
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/N2_620x420_MSS_Women_everything at 1500.jpg",
-    "Exit Url": "/women/special-price/?sort=popularity&price=150-1500",
-    "Headline": "<span style = \"color: #ff0000\">EVERYTHING AT 1,500 and below </span>",
-    "Subline": "Wardrobe-worthy additions at unbeatable prices.",
-    "EventLabel": "SAL|Women|wmsseverything1500|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/620x420_tresemme_20170327.jpg",
+    "Exit Url": "/women/tresemme/",
+    "Headline": "<span style = \"color: #ff0000\">TRESEMME RUNWAY READY SALE</span>",
+    "Subline": "Get up to 30% off on Tresemme products for that salon-smooth look!",
+    "EventLabel": "SAL|Women|wtresemme|ALL|ZAP"
   },
   {
     "Placement": "wcu1",
@@ -413,11 +413,11 @@
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/N2_620x420_MSS_Women_everything at 1500.jpg",
-    "Exit Url": "/women/special-price/?sort=popularity&price=150-1500",
-    "Headline": "<span style = \"color: #ff0000\">EVERYTHING AT 1,500 and below </span>",
-    "Subline": "Wardrobe-worthy additions at unbeatable prices.",
-    "EventLabel": "SAL|Women|wmssomnibusupto50off|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/620x420_tresemme_20170327.jpg",
+    "Exit Url": "/women/tresemme/",
+    "Headline": "<span style = \"color: #ff0000\">TRESEMME RUNWAY READY SALE</span>",
+    "Subline": "Get up to 30% off on Tresemme products for that salon-smooth look!",
+    "EventLabel": "SAL|Women|wtresemme|ALL|ZAP"
   },
   {
     "Placement": "wc1",
