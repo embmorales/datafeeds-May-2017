@@ -1,0 +1,542 @@
+[
+  {
+    "Placement": "wsf1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "wsl1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "/women/special-price/?sort=popularity&price=150-1500",
+    "Headline": "<span style = \"color: #ff0000\">EVERYTHING AT 1,500 and below </span>",
+    "Subline": "Applicable only on items on this page",
+    "EventLabel": "SAL|Women|wmsseverything1500|ALL|NA"
+  },
+  {
+    "Placement": "wsr1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "/women/special-price/",
+    "Headline": "MID SEASON SALE - <span style = \"color: #f8fc88\">Up to 50% Off</span>",
+    "Subline": "Wardrobe-worthy additions at unbeatable prices.",
+    "EventLabel": "SAL|Women|wmssomnibusupto50off|ALL|NA"
+  },
+  {
+    "Placement": "wh1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/hero_996x500_omnibus_up_to_50off.jpg",
+    "Exit Url": "/women/special-price/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Women|wmssomnibusupto50off|ALL|NA"
+  },
+  {
+    "Placement": "wn1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N1_NEWARRIVALS_360x420_women_esprit_zap_mss.jpg",
+    "Exit Url": "/women/esprit/special-price/",
+    "Headline": "<span style = \"color: #ff0000\">MID SEASON SALE : ESPRIT</span>",
+    "Subline": "Up to 60% off on these versatile pieces",
+    "EventLabel": "SAL|Women|wmssesprit|ALL|ZAP"
+  },
+  {
+    "Placement": "wn2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/620x420_tresemme_20170327.jpg",
+    "Exit Url": "/women/tresemme/",
+    "Headline": "<span style = \"color: #ff0000\">TRESEMME RUNWAY READY SALE</span>",
+    "Subline": "Get up to 30% off on Tresemme products for that salon-smooth look!",
+    "EventLabel": "SAL|Women|wtresemme|ALL|ZAP"
+  },
+  {
+    "Placement": "wcu1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N2-CU1-CU4_620x420_MSS_Women_VC_20off.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_two=mid20",
+    "Headline": "<span style = \"color: #ff0000\">TAKE 20% OFF NOW !</span>",
+    "Subline": "Use code: MID20. Ends April 3, 12 noon. No minimum spend",
+    "EventLabel": "SAL|Women|wmssbuy2get20off|ALL|NA"
+  },
+  {
+    "Placement": "wcu2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Wallet_Up_To_50off_CU2_320x420.jpg",
+    "Exit Url": "/women/accessories/wallets/special-price/",
+    "Headline": "<span style = \"color: #ff0000\">WALLETS UP TO 50% OFF</span>",
+    "Subline": "Spend in style without breaking the bank",
+    "EventLabel": "SAL-CAT|Women|wmsswalletsupto50off|ALL|NA"
+  },
+  {
+    "Placement": "wcu3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MuslimWear_upto_50off_N1-CU2-CU3_360x420.jpg",
+    "Exit Url": "/women/clothing/muslim-wear/special-price",
+    "Headline": "<span style = \"color: #ff0000\">MUSLIM WEAR</span>",
+    "Subline": "Up to 50% off",
+    "EventLabel": "SAL|Women|wmuslimwearupto50off|ALL|NA"
+  },
+  {
+    "Placement": "wcu4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N2_620x420_MSS_KFashion.jpg",
+    "Exit Url": "/women/k-fashion/k-fashion-clothing/special-price/",
+    "Headline": "<span style = \"color: #ff0000\">K-Fashion up to 50% off </span>",
+    "Subline": "Stand out from the crowd with these fashion pieces on markdowns",
+    "EventLabel": "SAL-CAT|Women|wmsskfashionupto50off|ALL|NA"
+  },
+  {
+    "Placement": "wfb1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_MSS_FB_Mango_322x165.jpg",
+    "Exit Url": "/women/mango/special-price",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL-BRA|Women|wmssmango|ALL|NA"
+  },
+  {
+    "Placement": "wfb2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_MSS_FB_MDS_322x165-2.jpg",
+    "Exit Url": "/mdscollections/special-price/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL-BRA|Women|wmssmdscollection|ALL|NA"
+  },
+  {
+    "Placement": "wfb3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_MSS_FB_SomethingBorrowed_322x165.jpg",
+    "Exit Url": "/something-borrowed/special-price",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL-BRA|Women|wmsssomethingborrowed|ALL|NA"
+  },
+  {
+    "Placement": "wfb4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_MSS_FB_Casio_322.jpg",
+    "Exit Url": "/women/watches/casio/special-price/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL-BRA|Women|wmsscasio|ALL|NA"
+  },
+  {
+    "Placement": "wfb5",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_MSS_FB_ZALORA_FeaturedBrand_322x165.jpg",
+    "Exit Url": "/women/zalora/special-price/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL-BRA|Women|wmsszalora|ALL|NA"
+  },
+  {
+    "Placement": "wfb6",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_MSS_FB_Anny322x165.jpg",
+    "Exit Url": "/women/anny/special-price/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL-BRA|Women|wmssanny|ALL|NA"
+  },
+  {
+    "Placement": "wc1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MSS_1-2_Women_Cat_Heels.jpg",
+    "Exit Url": "/women/shoes/heels/special-price/",
+    "Headline": "Shop Heels >",
+    "Subline": "Shop Heels >",
+    "EventLabel": "CAT|Women|mmssheels|ALL|NA"
+  },
+  {
+    "Placement": "wc2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MSS_1-2_Women_Cat_Make Up.jpg",
+    "Exit Url": "/women/beauty/make-up/special-price/",
+    "Headline": "Shop Make up >",
+    "Subline": "Shop Make up >",
+    "EventLabel": "CAT|Women|mmssmakeup|ALL|NA"
+  },
+  {
+    "Placement": "wc3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MSS_1-2_Women_Cat_Dresses.jpg",
+    "Exit Url": "/women/clothing/dresses/special-price/",
+    "Headline": "Shop Dresses >",
+    "Subline": "Shop Dresses >",
+    "EventLabel": "CAT|Women|mmssdresses|ALL|NA"
+  },
+  {
+    "Placement": "wc4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MSS_1-2_Women_Cat_Handbags.jpg",
+    "Exit Url": "/women/bags/handbags/special-price/",
+    "Headline": "Shop Handbags >",
+    "Subline": "Shop Handbags >",
+    "EventLabel": "CAT|Women|mmsshandbags|ALL|NA"
+  },
+  {
+    "Placement": "wc5",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MSS_1-2_Women_Cat_Sport Shoes.jpg",
+    "Exit Url": "/women/sports/sports-footwear/special-price/",
+    "Headline": "Shop Sports Shoes >",
+    "Subline": "Shop Sports Shoes >",
+    "EventLabel": "CAT|Women|mmsssportsshoes|ALL|NA"
+  },
+  {
+    "Placement": "msf1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "msl1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "/men/all-products/?cmpgn_four=mss-buy2get20off",
+    "Headline": "Buy 2 or More, Get 20% off",
+    "Subline": "Applicable only on items on this page",
+    "EventLabel": "SAL|Men|mmssbuy2get20off|ALL|NA"
+  },
+  {
+    "Placement": "msr1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "/men/special-price/",
+    "Headline": "MID SEASON SALE - <span style = \"color: #f8fc88\">Up to 50% Off</span>",
+    "Subline": "Wardrobe-worthy additions at unbeatable prices.",
+    "EventLabel": "SAL|Men|mmssomnibusupto50off|ALL|NA"
+  },
+  {
+    "Placement": "mh1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/hero_996x500_omnibus_up_to_50off.jpg",
+    "Exit Url": "/men/special-price/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Men|mmssomnibusupto50off|ALL|NA"
+  },
+  {
+    "Placement": "mn1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N1-MSS_ShirtsUpto50off.jpg",
+    "Exit Url": "/men/clothing/shirts/special-price/",
+    "Headline": "<span style = \"color: #ff0000\">Shirts Up to 50% off</span>",
+    "Subline": "Buttondown must-haves for every man",
+    "EventLabel": "SAL|Men|mmssshirtsupto50off|ALL|NA"
+  },
+  {
+    "Placement": "mn2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N2_NEWARRIVALS_620x420_MSS_Buy2Get20off.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_four=mss-buy2get20off",
+    "Headline": "<span style = \"color: #ff0000\">Buy 2 or More, Get 20% off</span>",
+    "Subline": "Indulge in pieces from your favorite brands. Valid only on this page",
+    "EventLabel": "SAL|Men|mmssbuy2get20off|ALL|NA"
+  },
+  {
+    "Placement": "mfb1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/",
+    "Exit Url": "/men/special-price/-solid/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL-BRA|Men|mmsssolid|ALL|NA"
+  },
+  {
+    "Placement": "mfb2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MSS_1-2_Men_FB_Alcott_322x165.jpg",
+    "Exit Url": "/men/special-price/alcott/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL-BRA|Men|mmssalcott|ALL|NA"
+  },
+  {
+    "Placement": "mfb3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MSS_1-2_Men_FB_jack-jones_322x165.jpg",
+    "Exit Url": "/men/special-price/jack-jones/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL-BRA|Men|mmssjackjones|ALL|NA"
+  },
+  {
+    "Placement": "mfb4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MSS_1-2_Men_FB_MEMO_featured-brand_W_322x165.jpg",
+    "Exit Url": "/men/special-price/memo/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL-BRA|Men|mmssmemo|ALL|NA"
+  },
+  {
+    "Placement": "mfb5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MSS_1-2_Men_FB_FeaturedBrand_Casio_322x165.jpg",
+    "Exit Url": "/men/special-price/casio/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL-BRA|Men|mmsscasio|ALL|NA"
+  },
+  {
+    "Placement": "mfb6",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MSS_1-2_Men_FB_322x165 Wrangler.jpg",
+    "Exit Url": "/men/special-price/wrangler/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL-BRA|Men|mmsswrangler|ALL|NA"
+  },
+  {
+    "Placement": "mc1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MSS_1-2_Men_Cat_Watches.jpg",
+    "Exit Url": "/men/watches/special-price/",
+    "Headline": "Shop Watches >",
+    "Subline": "Shop Watches >",
+    "EventLabel": "CAT|Men|mmsswatches|ALL|NA"
+  },
+  {
+    "Placement": "mc2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MSS_1-2_Men_Cat_Sunglasses.jpg",
+    "Exit Url": "/men/accessories/eyewear-sunglasses/special-price/",
+    "Headline": "Shop Sunglasses >",
+    "Subline": "Shop Sunglasses >",
+    "EventLabel": "CAT|Men|mmsssunglasses|ALL|NA"
+  },
+  {
+    "Placement": "mc3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MSS_1-2_Men_Cat_Polo Shirts.jpg",
+    "Exit Url": "/men/clothing/polo-shirts/special-price/",
+    "Headline": "Shop Polo Shirts >",
+    "Subline": "Shop Polo Shirts >",
+    "EventLabel": "CAT|Men|mmsspoloshirts|ALL|NA"
+  },
+  {
+    "Placement": "mc4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MSS_1-2_Men_Cat_Swimwear.jpg",
+    "Exit Url": "/men/clothing/swimwear/special-price/",
+    "Headline": "Shop Swimwear >",
+    "Subline": "Shop Swimwear >",
+    "EventLabel": "CAT|Men|mmssswimwear|ALL|NA"
+  },
+  {
+    "Placement": "mc5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MSS_1-2_Men_Cat_Sports Lifestyle.jpg",
+    "Exit Url": "/men/sports/sports-lifestyle/special-price/",
+    "Headline": "Shop Sports Lifestyle >",
+    "Subline": "Shop Sports Lifestyle >",
+    "EventLabel": "CAT|Men|mmsssportslifestyle|ALL|NA"
+  },
+  {
+    "Placement": "ws1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/skinny_700x200_omnibus_up_to_50off.jpg",
+    "Exit Url": "/women/special-price/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Women|wmssomnibusupto50off|ALL|NA"
+  },
+  {
+    "Placement": "wh1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/mobileweb hero_600x600_mss_upto50off.jpg",
+    "Exit Url": "/women/special-price/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Women|mmssomnibusupto50off|ALL|NA"
+  },
+  {
+    "Placement": "wn1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N2_NEWARRIVALS_620x420_women_esprit_zap_mss.jpg",
+    "Exit Url": "/women/esprit/special-price/",
+    "Headline": "<span style = \"color: #ff0000\">MID SEASON SALE : ESPRIT</span>",
+    "Subline": "Up to 60% off on these versatile pieces",
+    "EventLabel": "SAL|Women|wmssesprit|ALL|ZAP"
+  },
+  {
+    "Placement": "wn2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MuslimWear_upto_50off_N2-CU1-CU4_620x420.jpg",
+    "Exit Url": "/women/clothing/muslim-wear/special-price",
+    "Headline": "<span style = \"color: #ff0000\">MUSLIM WEAR</span>",
+    "Subline": "Up to 50% off",
+    "EventLabel": "SAL|Women|wmuslimwearupto50off|ALL|NA"
+  },
+  {
+    "Placement": "wc1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MSS_1-2_Women_Cat_Heels.jpg",
+    "Exit Url": "/women/shoes/heels/special-price/",
+    "Headline": "Shop Heels >",
+    "Subline": "Shop Heels >",
+    "EventLabel": "CAT|Women|mmssheels|ALL|NA"
+  },
+  {
+    "Placement": "wc2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MSS_1-2_Women_Cat_Make Up.jpg",
+    "Exit Url": "/women/beauty/make-up/special-price/",
+    "Headline": "Shop Make up >",
+    "Subline": "Shop Make up >",
+    "EventLabel": "CAT|Women|mmssmakeup|ALL|NA"
+  },
+  {
+    "Placement": "ms1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/skinny_700x200_omnibus_up_to_50off.jpg",
+    "Exit Url": "/men/special-price/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Men|mmssomnibusupto50off|ALL|NA"
+  },
+  {
+    "Placement": "mh1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/mobileweb hero_600x600_mss_upto50off.jpg",
+    "Exit Url": "/men/special-price/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Men|mmssomnibusupto50off|ALL|NA"
+  },
+  {
+    "Placement": "mn1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N2-MSS_ShirtsUpto50off.jpg",
+    "Exit Url": "/men/clothing/shirts/special-price/",
+    "Headline": "<span style = \"color: #ff0000\">Shirts Up to 50% off</span>",
+    "Subline": "Buttondown must-haves for every man",
+    "EventLabel": "SAL|Men|mmssshirtsupto50off|ALL|NA"
+  },
+  {
+    "Placement": "mn2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N2_NEWARRIVALS_620x420_MSS_Buy2Get20off.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_four=mss-buy2get20off",
+    "Headline": "<span style = \"color: #ff0000\">Buy 2 or More, Get 20% off</span>",
+    "Subline": "Indulge in pieces from your favorite brands. Valid only on this page",
+    "EventLabel": "SAL|Men|mmssbuy2get20off|ALL|NA"
+  },
+  {
+    "Placement": "mc1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MSS_1-2_Men_Cat_Watches.jpg",
+    "Exit Url": "/men/watches/special-price/",
+    "Headline": "Shop Watches >",
+    "Subline": "Shop Watches >",
+    "EventLabel": "CAT|Men|mmsswatches|ALL|NA"
+  },
+  {
+    "Placement": "mc2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MSS_1-2_Men_Cat_Sunglasses.jpg",
+    "Exit Url": "/men/accessories/eyewear-sunglasses/special-price/",
+    "Headline": "Shop Sunglasses >",
+    "Subline": "Shop Sunglasses >",
+    "EventLabel": "CAT|Men|mmsssunglasses|ALL|NA"
+  },
+  {
+    "Placement": "uh1",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/homepage_996x500_omnibus_up_to_50off.jpg",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA|Unisex|homepageheromss|ALL|NA"
+  },
+  {
+    "Placement": "ub1",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MSS_Dresses_up_to_50off_HP_322x300.jpg",
+    "Exit Url": "/women/clothing/dresses/special-price",
+    "Headline": "<span style = \"color: #ff0000\">DRESSES UP TO 50% OFF </span>",
+    "Subline": "Your perfect one piece style solution at great prices!",
+    "EventLabel": "SAL-CAT|Women|wmssdressesupto50off|ALL|NA"
+  },
+  {
+    "Placement": "ub2",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MuslimWear_upto_50off_HP_322x300.jpg",
+    "Exit Url": "/women/clothing/muslim-wear/special-price",
+    "Headline": "<span style = \"color: #ff0000\">MUSLIM WEAR</span>",
+    "Subline": "Up to 50% off",
+    "EventLabel": "SAL|Women|wmuslimwearupto50off|ALL|NA"
+  },
+  {
+    "Placement": "ub3",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/HP_322x300_MSS_Women_VC_20off.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_two=mid20",
+    "Headline": "<span style = \"color: #ff0000\">TAKE 20% OFF NOW !</span>",
+    "Subline": "Use code: MID20. Ends April 3, 12 noon. No minimum spend",
+    "EventLabel": "SAL|Women|wmssbuy2get20off|ALL|NA"
+  }
+]
