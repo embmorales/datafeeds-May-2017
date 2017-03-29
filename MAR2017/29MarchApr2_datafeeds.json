@@ -83,11 +83,11 @@
     "Placement": "wcu3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/MuslimWear_upto_50off_N1-CU2-CU3_360x420.jpg",
-    "Exit Url": "/women/clothing/muslim-wear/special-price",
-    "Headline": "<span style = \"color: #ff0000\">MUSLIM WEAR</span>",
-    "Subline": "Up to 50% off",
-    "EventLabel": "SAL|Women|wmuslimwearupto50off|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/N1_360x420_MSS_W_Bags_Up_to_50_off.jpg",
+    "Exit Url": "/women/bags/special-price/",
+    "Headline": "<span style = \"color: #ff0000\">BAGS UP TO 50% OFF</span>",
+    "Subline": "Pack your essentials in style with the perfect carryall",
+    "EventLabel": "SAL-CAT|Women|wmssbagsupto50off|ALL|NA"
   },
   {
     "Placement": "wcu4",
@@ -413,11 +413,11 @@
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/MuslimWear_upto_50off_N2-CU1-CU4_620x420.jpg",
-    "Exit Url": "/women/clothing/muslim-wear/special-price",
-    "Headline": "<span style = \"color: #ff0000\">MUSLIM WEAR</span>",
-    "Subline": "Up to 50% off",
-    "EventLabel": "SAL|Women|wmuslimwearupto50off|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/620x420_tresemme_20170327.jpg",
+    "Exit Url": "/women/tresemme/",
+    "Headline": "<span style = \"color: #ff0000\">TRESEMME RUNWAY READY SALE</span>",
+    "Subline": "Get up to 30% off on Tresemme products for that salon-smooth look!",
+    "EventLabel": "SAL|Women|wtresemme|ALL|ZAP"
   },
   {
     "Placement": "wc1",
@@ -523,11 +523,11 @@
     "Placement": "ub2",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/MuslimWear_upto_50off_HP_322x300.jpg",
-    "Exit Url": "/women/clothing/muslim-wear/special-price",
-    "Headline": "<span style = \"color: #ff0000\">MUSLIM WEAR</span>",
-    "Subline": "Up to 50% off",
-    "EventLabel": "SAL|Women|wmuslimwearupto50off|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/Homepage_Bottom_Heels_MSS_upto50off.jpg",
+    "Exit Url": "/women/shoes/heels/special-price/",
+    "Headline": "<span style = \"color: #ff0000\">HEELS UP TO 50% OFF</span>",
+    "Subline": "Take your look to new heights with a pair of high heels",
+    "EventLabel": "SAL-CAT|Women|wmssheelsupto50off|ALL|NA"
   },
   {
     "Placement": "ub3",
