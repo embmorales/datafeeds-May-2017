@@ -83,11 +83,11 @@
     "Placement": "wcu3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/N1_360x420_MSS_W_Bags_Up_to_50_off.jpg",
-    "Exit Url": "/women/bags/special-price/",
-    "Headline": "<span style = \"color: #ff0000\">BAGS UP TO 50% OFF</span>",
-    "Subline": "Pack your essentials in style with the perfect carryall",
-    "EventLabel": "SAL-CAT|Women|wmssbagsupto50off|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/N1_360x420_MSS_W_Heels_Up_to_50_off.jpg",
+    "Exit Url": "/women/shoes/heels/special-price/",
+    "Headline": "<span style = \"color: #ff0000\">HEELS UP TO 50% OFF</span>",
+    "Subline": "Take your look to new heights with a pair of high heels",
+    "EventLabel": "SAL-CAT|Women|wmssheelsupto50off|ALL|NA"
   },
   {
     "Placement": "wcu4",
@@ -433,11 +433,11 @@
     "Placement": "wc2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/MSS_1-2_Women_Cat_Make Up.jpg",
-    "Exit Url": "/women/beauty/make-up/special-price/",
-    "Headline": "Shop Make up >",
-    "Subline": "Shop Make up >",
-    "EventLabel": "CAT|Women|mmssmakeup|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/MSS_1-2_Women_Cat_Handbags.jpg",
+    "Exit Url": "/women/bags/handbags/special-price/",
+    "Headline": "Shop Handbags >",
+    "Subline": "Shop Handbags >",
+    "EventLabel": "CAT|Women|mmsshandbags|ALL|NA"
   },
   {
     "Placement": "ms1",
