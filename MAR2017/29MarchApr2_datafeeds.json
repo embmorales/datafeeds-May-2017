@@ -14,10 +14,10 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "/women/special-price/?sort=popularity&price=150-1500",
-    "Headline": "<span style = \"color: #ff0000\">EVERYTHING AT 1,500 and below </span>",
+    "Exit Url": "/women/all-products/",
+    "Headline": "<span style = \"color: #fff\">PAYDAY SALE! Use code : MIDPAY and get extra 15% off</span>",
     "Subline": "Applicable only on items on this page",
-    "EventLabel": "SAL|Women|wmsseverything1500|ALL|NA"
+    "EventLabel": "SAL|Women|wmsspaydaysale|ALL|NA"
   },
   {
     "Placement": "wsr1",
@@ -224,10 +224,10 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "/men/all-products/?cmpgn_four=mss-buy2get20off",
-    "Headline": "Buy 2 or More, Get 20% off",
+    "Exit Url": "/men/all-products/",
+    "Headline": "<span style = \"color: #fff\">PAYDAY SALE! Use code : MIDPAY and get extra 15% off</span>",
     "Subline": "Applicable only on items on this page",
-    "EventLabel": "SAL|Men|mmssbuy2get20off|ALL|NA"
+    "EventLabel": "SAL|Men|mmsspaydaysale|ALL|NA"
   },
   {
     "Placement": "msr1",
