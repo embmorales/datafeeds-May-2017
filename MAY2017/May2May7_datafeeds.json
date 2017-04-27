@@ -1,0 +1,542 @@
+[
+  {
+    "Placement": "wsf1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "/bap/",
+    "Headline": "Be A ZALORA Brand Ambassador and earn up to 20% Commission!",
+    "Subline": "Sign up now!",
+    "EventLabel": "NA|NA|wbap|ALL|NA"
+  },
+  {
+    "Placement": "wsl1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "wsr1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "wh1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/HERO_996x500_Dressed Up Dreams.jpg",
+    "Exit Url": "/women/clothing/dresses/new-products",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "CAT|Women|wdressedupdreams|ALL|NA"
+  },
+  {
+    "Placement": "wn1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N1_NEWARRIVALS_360x420-Women_AbercrombieFitch.jpg",
+    "Exit Url": "/women/denimpage",
+    "Headline": "Abercrombie & Fitch",
+    "Subline": "Shop the latest in casual luxury and bring out the confidence within you",
+    "EventLabel": "BRA|Women|wabercrombiefitch|ALL|NA"
+  },
+  {
+    "Placement": "wn2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N2_620x420_Tresseme_ZAP_CitySleek.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=city-sleek",
+    "Headline": "CITY SLEEK BY TRESEMME",
+    "Subline": "As seen on Runaway Ready 2017",
+    "EventLabel": "BRA|Women|wtresemmecitysleek|ALL|ZAP"
+  },
+  {
+    "Placement": "wcu1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/620x420_Sling It On.jpg",
+    "Exit Url": "/women/bags/sling-bags/?sort=popularity&price=0-999",
+    "Headline": "SLING IT ON",
+    "Subline": "Stylish sling bags under P1000 for women on the go",
+    "EventLabel": "CAT|Women|wslingiton|ALL|NA"
+  },
+  {
+    "Placement": "wcu2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N1_NEWARRIVALS_360x420_Asntm_s5_ep5.jpg",
+    "Exit Url": "/women/asias-next-top-model-5/",
+    "Headline": "Trend Roundup - Episode 5",
+    "Subline": "Be awed by the power of the fashion world’s most iconic colour",
+    "EventLabel": "MRC|Women|masntms5ep5|ALL|NA"
+  },
+  {
+    "Placement": "wcu3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/360x420_Less_Is_More_Beauty.jpg",
+    "Exit Url": "/women/beauty/make-up/?sort=popularity&price=200-999",
+    "Headline": "LESS IS MORE",
+    "Subline": "Make up for less than P1,000",
+    "EventLabel": "CAT|Women|wbeautyunderP1000|ALL|NA"
+  },
+  {
+    "Placement": "wcu4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N2_NEWARRIVALS_620x420_Athleisure_Attitude.jpg",
+    "Exit Url": "/women/sports/sports-clothing/special-price/",
+    "Headline": "Athleisure Attitude",
+    "Subline": "Reach peak performance and look absolutely stunning while you're at it",
+    "EventLabel": "CAT|Women|wathleisureattitude|ALL|NA"
+  },
+  {
+    "Placement": "wfb1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Featured Brand_322x165_20170427_Nine_west.png",
+    "Exit Url": "/women/nine-west/?sort=latest%20arrival",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wninewest|ALL|NA"
+  },
+  {
+    "Placement": "wfb2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Featured Brand_322x165_20170427_SnH.png",
+    "Exit Url": "/women/s-h/?sort=latest%20arrival",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wsnh|ALL|NA"
+  },
+  {
+    "Placement": "wfb3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Featured Brand_322x165_Tresemme_ZAP_City Sleek.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=city-sleek",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wtresemmecitysleek|ALL|ZAP"
+  },
+  {
+    "Placement": "wfb4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Featured Brand_322x165_20170427_Kats_Clothing.png",
+    "Exit Url": "/women/kats-clothing/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wkatsclothing|ALL|NA"
+  },
+  {
+    "Placement": "wfb5",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/FeaturedBrand_322x165_20170427_asntm_maybelline.jpg",
+    "Exit Url": "/women/maybelline/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wmaybellineasntm|ALL|NA"
+  },
+  {
+    "Placement": "wfb6",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Featured Brand_322x165_20170427_ZALORA.png",
+    "Exit Url": "/women/zalora/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wzalora|ALL|NA"
+  },
+  {
+    "Placement": "wc1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170427_Crop Tops_300x198.jpg",
+    "Exit Url": "/women/clothing/crop-tops/",
+    "Headline": "Shop Crop tops >",
+    "Subline": "Shop Crop tops >",
+    "EventLabel": "CAT|Women|wcroptops|ALL|NA"
+  },
+  {
+    "Placement": "wc2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170427_Wedges_300x198.jpg",
+    "Exit Url": "/women/shoes/wedges",
+    "Headline": "Shop Wedges >",
+    "Subline": "Shop Wedges >",
+    "EventLabel": "CAT|Women|wwedges|ALL|NA"
+  },
+  {
+    "Placement": "wc3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170427_Swimwear.jpg",
+    "Exit Url": "/women/clothing/one-piece/",
+    "Headline": "Shop One Piece Swimsuits >",
+    "Subline": "Shop One Piece Swimsuits >",
+    "EventLabel": "CAT|Women|wonepieceswimwear|ALL|NA"
+  },
+  {
+    "Placement": "wc4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170427_Sportsneakers_300x198.jpg",
+    "Exit Url": "/women/sports/sports-shoes-running/",
+    "Headline": "Shop Sport Sneakers >",
+    "Subline": "Shop Sport Sneakers >",
+    "EventLabel": "CAT|Women|wsportssneakers|ALL|NA"
+  },
+  {
+    "Placement": "wc5",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170427_Lips_300x198.jpg",
+    "Exit Url": "/women/beauty/lips",
+    "Headline": "Shop Lips >",
+    "Subline": "Shop Lips >",
+    "EventLabel": "CAT|Women|wlips|ALL|NA"
+  },
+  {
+    "Placement": "msf1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "/bap/",
+    "Headline": "Be A ZALORA Brand Ambassador and earn up to 20% Commission!",
+    "Subline": "Sign up now!",
+    "EventLabel": "NA|NA|mbap|ALL|NA"
+  },
+  {
+    "Placement": "msl1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "msr1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "mh1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/SEGMENT_HERO_996x500_AbercrombieFitch.jpg",
+    "Exit Url": "/men/abercrombie-fitch/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mabercrombiefitch|ALL|NA"
+  },
+  {
+    "Placement": "mn1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N1_360x420_Summer_Nautical.jpg",
+    "Exit Url": "/men/trends/nautical/",
+    "Headline": "Summer Nautical",
+    "Subline": "Smarten up your warm-weather wardrobe with these summer staples",
+    "EventLabel": "TRE|Men|msummernautical|ALL|NA"
+  },
+  {
+    "Placement": "mn2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N2_620x420_Poloshirt_999.jpg",
+    "Exit Url": "/men/clothing/polo-shirts/?price=259-999",
+    "Headline": "Polo Shirts Under P999",
+    "Subline": "A warm month pick that's more refined than casual",
+    "EventLabel": "CAT|Men|mpoloshirtunder999|ALL|NA"
+  },
+  {
+    "Placement": "mfb1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/landingpages/20170421_Dsk_322x165_havaianas.jpg",
+    "Exit Url": "/men/havaianas/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mhavaianas|ALL|NA"
+  },
+  {
+    "Placement": "mfb2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170427_Dsk_322x165_bench.jpg",
+    "Exit Url": "/men/bench/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mbench|ALL|NA"
+  },
+  {
+    "Placement": "mfb3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/landingpages/20170421_Dsk_322x165_onitsuka-tiger.jpg",
+    "Exit Url": "/men/onitsuka-tiger/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|monitsukatiger|ALL|NA"
+  },
+  {
+    "Placement": "mfb4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170427_Dsk_322x165_folded-hung.jpg",
+    "Exit Url": "/men/folded-hung/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mfoldedhung|ALL|NA"
+  },
+  {
+    "Placement": "mfb5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/landingpages/20170421_Nike_B1-6_322x165.jpg",
+    "Exit Url": "/men/nike/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mnike|ALL|NA"
+  },
+  {
+    "Placement": "mfb6",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170427_Dsk_322x165_parkland.jpg",
+    "Exit Url": "/men/parkland/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mparkland|ALL|NA"
+  },
+  {
+    "Placement": "mc1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170427_Cat2_performance-shoes.jpg",
+    "Exit Url": "/men/shoes/sports-performance/",
+    "Headline": "Shop Performance Shoes >",
+    "Subline": "Shop Performance Shoes >",
+    "EventLabel": "CAT|Men|mperformanceshoes|ALL|NA"
+  },
+  {
+    "Placement": "mc2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170427_Cat1_caps.jpg",
+    "Exit Url": "/men/accessories/caps/",
+    "Headline": "Shop Caps >",
+    "Subline": "Shop Caps >",
+    "EventLabel": "CAT|Men|mcaps|ALL|NA"
+  },
+  {
+    "Placement": "mc3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170427_Cat3_tanktops.jpg",
+    "Exit Url": "/men/clothing/sleeveless-t-shirts/",
+    "Headline": "Shop Tank Tops >",
+    "Subline": "Shop Tank Tops >",
+    "EventLabel": "CAT|Men|mtanktops|ALL|NA"
+  },
+  {
+    "Placement": "mc4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170427_Cat3_loafers.jpg",
+    "Exit Url": "/men/shoes/loafers-moccasins/",
+    "Headline": "Shop Loafers >",
+    "Subline": "Shop Loafers >",
+    "EventLabel": "CAT|Men|mloafers|ALL|NA"
+  },
+  {
+    "Placement": "mc5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170427_Cat5_shorts.jpg",
+    "Exit Url": "/men/clothing/shorts/",
+    "Headline": "Shop Shorts >",
+    "Subline": "Shop Shorts >",
+    "EventLabel": "CAT|Men|mshorts|ALL|NA"
+  },
+  {
+    "Placement": "ws1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "",
+    "Exit Url": "",
+    "Headline": "",
+    "Subline": "",
+    "EventLabel": ""
+  },
+  {
+    "Placement": "wh1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MOBILE_WEB_HERO_600x600_Dressed Up Dreams.jpg",
+    "Exit Url": "/women/clothing/dresses/new-products",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "CAT|Women|wdressedupdreams|ALL|NA"
+  },
+  {
+    "Placement": "wn1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N2_NEWARRIVALS_620x420-denimwk2-women.jpg",
+    "Exit Url": "/women/denimpage",
+    "Headline": "Destination Denim",
+    "Subline": "Fashion trends come and go, but denim is here to stay",
+    "EventLabel": "TRE|Women|wdenimtrendpart2|ALL|NA"
+  },
+  {
+    "Placement": "wn2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N2_620x420_Tresseme_ZAP_CitySleek.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=city-sleek",
+    "Headline": "CITY SLEEK BY TRESEMME",
+    "Subline": "As seen on Runaway Ready 2017",
+    "EventLabel": "BRA|Women|wtresemmecitysleek|ALL|ZAP"
+  },
+  {
+    "Placement": "wc1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170427_Crop Tops_300x198.jpg",
+    "Exit Url": "/women/clothing/crop-tops/",
+    "Headline": "Shop Crop tops >",
+    "Subline": "Shop Crop tops >",
+    "EventLabel": "CAT|Women|wcroptops|ALL|NA"
+  },
+  {
+    "Placement": "wc2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170427_Lips_300x198.jpg",
+    "Exit Url": "/women/beauty/lips",
+    "Headline": "Shop Lips >",
+    "Subline": "Shop Lips >",
+    "EventLabel": "CAT|Women|wlips|ALL|NA"
+  },
+  {
+    "Placement": "ms1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "",
+    "Exit Url": "",
+    "Headline": "",
+    "Subline": "",
+    "EventLabel": ""
+  },
+  {
+    "Placement": "mh1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MOBILEWEB_HERO_600x600_AbercrombieFitch.jpg",
+    "Exit Url": "/men/abercrombie-fitch/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mabercrombiefitch|ALL|NA"
+  },
+  {
+    "Placement": "mn1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N2_620x420_Summer_Nautical.jpg",
+    "Exit Url": "/men/trends/nautical/",
+    "Headline": "Summer Nautical",
+    "Subline": "Smarten up your warm-weather wardrobe with these summer staples",
+    "EventLabel": "TRE|Men|msummernautical|ALL|NA"
+  },
+  {
+    "Placement": "mn2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N2_620x420_Poloshirt_999.jpg",
+    "Exit Url": "/men/clothing/polo-shirts/?price=259-999",
+    "Headline": "Polo Shirts Under P999",
+    "Subline": "A warm month pick that's more refined than casual",
+    "EventLabel": "CAT|Men|mpoloshirtunder999|ALL|NA"
+  },
+  {
+    "Placement": "mc1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170427_Cat2_performance-shoes.jpg",
+    "Exit Url": "/men/shoes/sports-performance/",
+    "Headline": "Shop Performance Shoes >",
+    "Subline": "Shop Performance Shoes >",
+    "EventLabel": "CAT|Men|mperformanceshoes|ALL|NA"
+  },
+  {
+    "Placement": "mc2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170427_Cat5_shorts.jpg",
+    "Exit Url": "/men/clothing/shorts/",
+    "Headline": "Shop Shorts >",
+    "Subline": "Shop Shorts >",
+    "EventLabel": "CAT|Men|mshorts|ALL|NA"
+  },
+  {
+    "Placement": "uh1",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/Evergage/20170121_Homepage_desktop.jpg",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "CAT|Unisex|homepagehero|ALL|NA"
+  },
+  {
+    "Placement": "ub1",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/AF_322x300_Homepage.jpg",
+    "Exit Url": "/abercrombie-fitch/",
+    "Headline": "Abercrombie & Fitch",
+    "Subline": "Shop the latest in casual luxury and bring out the confidence within you",
+    "EventLabel": "BRA|Unisex|abercrombiefitch|ALL|NA"
+  },
+  {
+    "Placement": "ub2",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/322x300_Athleisure_HP.jpg",
+    "Exit Url": "/women/sports/sports-clothing/special-price/",
+    "Headline": "Athleisure Attitude",
+    "Subline": "Reach peak performance and look absolutely stunning while you're at it",
+    "EventLabel": "CAT|Women|wathleisureattitude|ALL|NA"
+  },
+  {
+    "Placement": "ub3",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/322x300_SLingItOn_HP.jpg",
+    "Exit Url": "/women/bags/sling-bags/?sort=popularity&price=0-999",
+    "Headline": "SLING IT ON",
+    "Subline": "Stylish sling bags under P1000 for women on the go",
+    "EventLabel": "CAT|Women|wslingiton|ALL|NA"
+  }
+]
