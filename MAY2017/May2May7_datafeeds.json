@@ -44,20 +44,20 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "https://static-ph.zacdn.com/cms/DY/N1_NEWARRIVALS_360x420-Women_AbercrombieFitch.jpg",
-    "Exit Url": "/women/denimpage",
-    "Headline": "Abercrombie & Fitch",
-    "Subline": "Shop the latest in casual luxury and bring out the confidence within you",
-    "EventLabel": "BRA|Women|wabercrombiefitch|ALL|NA"
+    "Exit Url": "/women/shoes/flats/?sort=popularity&price=250-999",
+    "Headline": "FLAT OUT FANTASTIC",
+    "Subline": "Grab these must-have pairs at P999 and below",
+    "EventLabel": "CAT|Women|wflatsunder999|ALL|NA"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/N2_620x420_Tresseme_ZAP_CitySleek.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=city-sleek",
-    "Headline": "CITY SLEEK BY TRESEMME",
-    "Subline": "As seen on Runaway Ready 2017",
-    "EventLabel": "BRA|Women|wtresemmecitysleek|ALL|ZAP"
+    "Image": "https://static-ph.zacdn.com/cms/DY/N2_NEWARRIVALS_620x420_Abercrombie_Women.jpg",
+    "Exit Url": "/women/abercrombie-fitch/",
+    "Headline": "Abercrombie & Fitch",
+    "Subline": "Shop the latest in casual luxury and bring out the confidence within you",
+    "EventLabel": "BRA|Women|wabercrombiefitch|ALL|NA"
   },
   {
     "Placement": "wcu1",
@@ -123,11 +123,11 @@
     "Placement": "wfb3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/Featured Brand_322x165_Tresemme_ZAP_City Sleek.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=city-sleek",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Lipault_Featured Brand_322x165.png",
+    "Exit Url": "/women/lipault/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|wtresemmecitysleek|ALL|ZAP"
+    "EventLabel": "BRA|Women|wlipault|ALL|NA"
   },
   {
     "Placement": "wfb4",
@@ -413,11 +413,11 @@
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/N2_620x420_Tresseme_ZAP_CitySleek.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=city-sleek",
-    "Headline": "CITY SLEEK BY TRESEMME",
-    "Subline": "As seen on Runaway Ready 2017",
-    "EventLabel": "BRA|Women|wtresemmecitysleek|ALL|ZAP"
+    "Image": "https://static-ph.zacdn.com/cms/DY/N2_NEWARRIVALS_620x420_Abercrombie_Women.jpg",
+    "Exit Url": "/women/abercrombie-fitch/",
+    "Headline": "Abercrombie & Fitch",
+    "Subline": "Shop the latest in casual luxury and bring out the confidence within you",
+    "EventLabel": "BRA|Women|wabercrombiefitch|ALL|NA"
   },
   {
     "Placement": "wc1",
