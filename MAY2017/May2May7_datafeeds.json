@@ -4,30 +4,30 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "https://www.zalora.com.ph/bap?utm_source=BAP&utm_medium=BAP&utm_campaign=Onsite_acqui_skinny",
-    "Headline": "Be A ZALORA Brand Ambassador and earn up to 20% Commission!",
-    "Subline": "Sign up now!",
-    "EventLabel": "NA|NA|wbap|ALL|NA"
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
   },
   {
     "Placement": "wsl1",
     "Gender": "women",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "NA",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "NA"
+    "Exit Url": "https://www.zalora.com.ph/bap?utm_source=BAP&utm_medium=BAP&utm_campaign=Onsite_acqui_skinny",
+    "Headline": "Be A ZALORA Brand Ambassador and earn up to 20% Commission!",
+    "Subline": "Sign up now!",
+    "EventLabel": "NA|NA|wbap|ALL|NA"
   },
   {
     "Placement": "wsr1",
     "Gender": "women",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "NA",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "NA"
+    "Exit Url": "/women/all-products/?cmpgn_five=amayz35off&vc=amayz35",
+    "Headline": "Up to 40% off + Extra 35% off, Use code: AMAYZ35",
+    "Subline": "Ends May 7, 11:59PM. Valid only on items on this page. Enter code at checkout",
+    "EventLabel": "SAL|Women|wrpl35off|ALL|NA"
   },
   {
     "Placement": "wh1",
@@ -214,30 +214,30 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "https://www.zalora.com.ph/bap?utm_source=BAP&utm_medium=BAP&utm_campaign=Onsite_acqui_skinny",
-    "Headline": "Be A ZALORA Brand Ambassador and earn up to 20% Commission!",
-    "Subline": "Sign up now!",
-    "EventLabel": "NA|NA|mbap|ALL|NA"
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
   },
   {
     "Placement": "msl1",
     "Gender": "men",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "NA",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "NA"
+    "Exit Url": "https://www.zalora.com.ph/bap?utm_source=BAP&utm_medium=BAP&utm_campaign=Onsite_acqui_skinny",
+    "Headline": "Be A ZALORA Brand Ambassador and earn up to 20% Commission!",
+    "Subline": "Sign up now!",
+    "EventLabel": "NA|NA|mbap|ALL|NA"
   },
   {
     "Placement": "msr1",
     "Gender": "men",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "NA",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "NA"
+    "Exit Url": "/men/all-products/?cmpgn_five=amayz35off&vc=amayz35",
+    "Headline": "Up to 40% off + Extra 35% off, Use code: AMAYZ35",
+    "Subline": "Ends May 7, 11:59PM. Valid only on items on this page. Enter code at checkout",
+    "EventLabel": "SAL|Men|mrpl35off|ALL|NA"
   },
   {
     "Placement": "mh1",
